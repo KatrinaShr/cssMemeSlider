@@ -63,7 +63,7 @@ html {
   width: 25%;
   transition: all .6s ease;
   border: 0.1rem solid;
-  border-radius: 0.9375rem;
+  /* border-radius: 0.9375rem; */
   border-color: var(--accent-color);
   overflow: hidden;
   background-color: var(--background-slide-color);
