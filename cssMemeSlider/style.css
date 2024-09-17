@@ -114,7 +114,7 @@ html {
   border-color: var(--accent-color);
   opacity: 0.5;
   transition: all .3s ease;
-  margin: 0.9375rem 0.313rem 0.9375rem 0.313rem;
+  margin: 0.9375rem 0.4rem 0.9375rem 0.4rem;
 }
 
 .bar:hover {
@@ -180,7 +180,7 @@ input[name="radioSlide"] {
 .expand-click-area {
   width: 100%;
   height: 100%;
-  padding: 0.9375rem 0.313rem 0.9375rem 0.313rem;
+  padding: 0.9375rem 0.4rem 0.9375rem 0.4rem;
 }
 
 @media (max-width: 600px) {
@@ -200,10 +200,10 @@ input[name="radioSlide"] {
   }  
 
   .expand-click-area {
-    padding: 0.625rem 0.313rem 0.625rem 0.313rem;
+    padding: 0.625rem 0.4rem 0.625rem 0.4rem;
   }
 
   .bar {
-    margin: 0.625rem 0.313rem 0.625rem 0.313rem;
+    margin: 0.625rem 0.4rem 0.625rem 0.4rem;
   }
 }
